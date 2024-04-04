@@ -13,7 +13,7 @@ This program demonstrates raycasting, a technique used in computer graphics for 
 - For JavaScript(p5.js):
     - A modern web browser
 ## Installation
-# Python(Pygame) 
+### Python(Pygame) 
 1. Make sure you have Python installed on your system. You can download it from [Python's official website](https://www.python.org/downloads/).
 
 2. Install Pygame using pip:
@@ -22,7 +22,7 @@ pip install pygame
 ```
 
 
-# JavaScript
+### JavaScript
 1. Clone or download the repository to your local machine
 
 2. Navigate to the directory containing the HTML file and the JavaScript files.
@@ -30,7 +30,7 @@ pip install pygame
 
 
 ## Usage
-# Python 
+### Python 
 1. Clone or download the repository to your local machine.
 
 2. Navigate to the directory containing the `main.py` file.
@@ -41,7 +41,7 @@ python raycasting.py
 ```
 4. Use the arrow keys to move the player and the left and right arrow keys to rotate the view.
 
-# JavaScript
+#### JavaScript
 1. Open the HTML file (index.html) in a modern web browser.
 
 
