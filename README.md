@@ -56,7 +56,7 @@ python raycasting.py
 These components work together to create a simple raycasting engine that simulates a 3D environment using 2D graphics. The maze environment is rendered using raycasting techniques, allowing the player to navigate through it and explore the surroundings.
 
 ## Version 
-- Python Raycasting (1.0.1β)
+- Python Raycasting (1.0.1 β)
 
 - JavaScript Raycasting (1.0.0 α)
 
